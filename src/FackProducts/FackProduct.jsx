@@ -1,5 +1,5 @@
 import React from "react";
-import data from './Fackdata.jsx'
+import data from './Data.jsx';
 import './product.css'
 
 function Fackproduct() {
